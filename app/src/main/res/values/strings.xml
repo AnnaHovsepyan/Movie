@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="sport_fragment">Sport Fragment</string>
+    <string name="movie_fragment">Movie Fragment</string>
+    <string name="Popular">Popular</string>
+    <string name="label_release_date">Release Data</string>
+    <string name="label_vote">Vote</string>
+    <string name="label_overview">Overview</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="details">Details</string>
+</resources>
